@@ -245,5 +245,5 @@ def rcrack(uid,pwx,tl):
     except:
         pass
 
-OHID()
+Ohid()
       
